@@ -1,1 +1,2 @@
-# hajimeteno_flutter
+# 「はじめてのFlutter」サポートページ　（予定）
+
